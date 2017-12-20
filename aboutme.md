@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: We are on the same page
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+I manage the software development environment from ide to software deployment. Automation is the best friend of mine "continuously". I use scripts **as my tools, simple but effective**.
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To contact me, please visit my Linkedin[Linkedin](https://www.linkedin.com/in/emredundar) profile.
