@@ -14,17 +14,17 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Emre Dundar | Personal Website
+title: Emre Dündar | Kişisel Websitesi
 
 # Short description of your site
-description: Emre Dundar | Personal Website
+description: Emre Dündar | Kişisel Websitesi
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  Hakkımda: "aboutme"
+  Bağlantılar:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
