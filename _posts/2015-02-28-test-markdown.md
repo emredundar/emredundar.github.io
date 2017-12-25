@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nasıl Öğrendim: Sth'
+title: Nasıl Öğrendim: Sth
 subtitle: Kişisel ansiklopedisi serisi: 1
 ---
 
