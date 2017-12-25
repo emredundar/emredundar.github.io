@@ -1,12 +1,7 @@
 ---
 layout: post
-title: 'How I learned: Sth'
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge:
-  - star
-  - fork
-  - follow
+title: 'Nasıl Öğrendim: Sth'
+subtitle: Kişisel ansiklopedisi serisi: 1
 published: true
 ---
 
