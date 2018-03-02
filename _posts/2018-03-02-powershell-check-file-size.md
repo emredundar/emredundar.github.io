@@ -4,7 +4,7 @@ title: Check file size - Powershell
 subtitle: Personal Wikipedia
 ---
 
-A script I run generates a file as an output, but I could not know if the process is successfull or not. That's why I need this simple file size check script.
+A script I run generates a file as an output, but I could not know if the process is successful or not. That's why I need this simple "file size check" script.
 
 {% highlight powershell linenos %}
 $file = "C:\temp\test\test-file.zip"  # path of the file to check
