@@ -8,10 +8,10 @@ A script I run generates a file as an output, but I could not know if the proces
 
 {% highlight powershell linenos %}
 $file = "C:\temp\test\test-file.zip"   #path of the file to check
-$expected_size = "3mb"   #expected size of the file
+$control_size = "3mb"   #expected size of the file
 
-if ((Get-Item $file).length -gt $expected_size) { 
-	Write-Output "info: File is greater than $expected_size." 
+if ((Get-Item $file).length -gt $control_size) { 
+	Write-Output "info: File is greater than $control_size." 
 } 
 else {
 	Write-Error "Error on previous step. The output file is not correct. Please check the logs." 
