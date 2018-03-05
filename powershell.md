@@ -2,7 +2,7 @@
 layout: page
 title: "Emre Dündar"
 subtitle: personal website
-css: "/css/main.css"
+css: "/css/index.css"
 meta-title: "Emre Dündar - Popular posts"
 meta-description: " "
 ---
