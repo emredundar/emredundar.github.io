@@ -10,7 +10,7 @@ meta-description: " "
 <div class="list-filters">
   <a href="/" class="list-filter">All posts</a>
   <span class="list-filter filter-selected">Popular</span>
-  <a href="/tutorials" class="list-filter">Filter</a>
+  <a href="/powershell" class="list-filter">Powershell</a>
 </div>
 
 <div class="posts-list">
