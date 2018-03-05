@@ -2,7 +2,7 @@
 layout: post
 title: Check file size - Powershell
 subtitle: Personal Wikipedia
-tags: [professional, rstats, r-bloggers, shiny, tutorial]
+tags: [powershell]
 ---
 
 A script I run generates a file as an output, but I could not know if the process is successful or not. That's why I need this simple "file size check" script.
@@ -18,3 +18,5 @@ else {
 	Write-Error "Error on previous step. The output file is not correct. Please check the logs." 
 }
 {% endhighlight %}
+
+<br/>
