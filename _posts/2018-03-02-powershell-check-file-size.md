@@ -2,6 +2,7 @@
 layout: post
 title: Check file size - Powershell
 subtitle: Personal Wikipedia
+tags: [professional, rstats, r-bloggers, shiny, tutorial]
 ---
 
 A script I run generates a file as an output, but I could not know if the process is successful or not. That's why I need this simple "file size check" script.
