@@ -10,6 +10,6 @@ I have shared my Meetup presentation on [SlideShare](https://www.slideshare.net/
 
 https://www.slideshare.net/dundare/continuous-inspection-of-code-quality-sonarqube
 
-![SonarQube](emredundar.github.io/img/meetup-1.PNG "Continuous Inspection of Code Quality")
+![SonarQube]("../img/meetup-1.PNG" "Continuous Inspection of Code Quality")
 
 <br/>
