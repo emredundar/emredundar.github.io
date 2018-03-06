@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Continuous Inspection of Code Quality: SonarQube
-subtitle: Meetup Presentation - 2017
+title: "Continuous Inspection of Code Quality: SonarQube"
+subtitle: "Meetup Presentation - 2017"
 permalink: /blog/continuous-inspection-sonarqube/
 tags: [sonarqube]
 ---
