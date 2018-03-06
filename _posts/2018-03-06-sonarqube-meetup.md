@@ -8,8 +8,5 @@ tags: [sonarqube]
 
 I have shared my Meetup presentation on [SlideShare](https://www.slideshare.net/dundare/continuous-inspection-of-code-quality-sonarqube)
 
-https://www.slideshare.net/dundare/continuous-inspection-of-code-quality-sonarqube
-
-![SonarQube]("../img/meetup-1.PNG" "Continuous Inspection of Code Quality")
-
+[![SonarQube](../img/meetup-1.PNG)](https://www.slideshare.net/dundare/continuous-inspection-of-code-quality-sonarqube)
 <br/>
