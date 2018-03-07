@@ -18,7 +18,7 @@ There are 5 ways of starting a new project on TFS 2018. You can choose your acti
 
 
 | Status			                                                         | Action						                    					|
-| -------------------------------------------------------------------- |:----------------------------------------------:|
+| -------------------------------------------------------------------- | ---------------------------------------------- |
 | You don't have any code written.                                     | initialize with a README or gitignore			    |
 | You have code on your local machine.                                 | initialize with a README or gitignore			    |
 | You have an existing git repository on your local machine.           | push an existing repository from command line	|
