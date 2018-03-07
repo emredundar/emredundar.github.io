@@ -16,9 +16,9 @@ There are 5 ways of starting a new project on TFS 2018. You can choose your acti
 1. You have an existing repository on a different Git repository.
 1. You don't want to add any code repository, just need a build system.
 
-<br>
+
 <div style="text-align:left;">
-  <a href="#">
+  <a href="https://emredundar.github.io/img/tfs-1.PNG">
     <img src="https://emredundar.github.io/img/tfs-1.PNG" alt="tfs2018" style="width: 1000px;">
   </a>
 </div>
