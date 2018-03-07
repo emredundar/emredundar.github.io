@@ -11,6 +11,7 @@ After creating a new project on TFS, you need to start coding on this project.
 There are 5 ways of starting a new project on T**FS 2018**. You can **choose your action depending on your status of project**.
 
 <br>
+
 | Status			                                                         | Action						                    					|
 | -------------------------------------------------------------------- | ---------------------------------------------- |
 | You don't have any code written.                                     | initialize with a README or gitignore			    |
