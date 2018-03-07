@@ -18,7 +18,7 @@ There are 5 ways of starting a new project on **TFS 2018**. You can **choose you
 </div>
 <br>
 
-<div><sub>
+<sub>
   
 | Status			                                                         | Action						                    					|
 | -------------------------------------------------------------------- | ---------------------------------------------- |
@@ -28,6 +28,4 @@ There are 5 ways of starting a new project on **TFS 2018**. You can **choose you
 | You have an existing repository on a different Git repository.       | import a repository							              |
 | You don't want to add any code repository, just need a build system. | build code from an external repository		    	|
 
-</sub></div>
-
-<br>
+</sub>
