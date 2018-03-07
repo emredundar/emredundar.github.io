@@ -8,15 +8,9 @@ tags: [tfs]
 
 After creating a new project on TFS, you need to start coding on this project.
 
-There are 5 ways of starting a new project on TFS 2018. You can choose your action depending on your status of project.
+There are 5 ways of starting a new project on T**FS 2018**. You can **choose your action depending on your status of project**.
 
-1. You don't have any code written.
-1. You have code on your local machine.
-1. You have an existing git repository on your local machine.
-1. You have an existing repository on a different Git repository.
-1. You don't want to add any code repository, just need a build system.
-
-
+<br>
 | Status			                                                         | Action						                    					|
 | -------------------------------------------------------------------- | ---------------------------------------------- |
 | You don't have any code written.                                     | initialize with a README or gitignore			    |
@@ -24,7 +18,6 @@ There are 5 ways of starting a new project on TFS 2018. You can choose your acti
 | You have an existing git repository on your local machine.           | push an existing repository from command line	|
 | You have an existing repository on a different Git repository.       | import a repository							              |
 | You don't want to add any code repository, just need a build system. | build code from an external repository		    	|
-
 
 <br>
 <div style="text-align:left;">
