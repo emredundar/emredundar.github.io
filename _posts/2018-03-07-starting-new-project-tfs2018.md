@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Ways of Starting A New Project on TFS 2018
-subtitle: Version Control
+subtitle: Version Control Systems
 permalink: /blog/starting-new-project-tfs2018/
 tags: [tfs]
 ---
@@ -16,8 +16,10 @@ There are 5 ways of starting a new project on **TFS 2018**. You can **choose you
     <img src="https://emredundar.github.io/img/tfs-1.PNG" alt="tfs2018" style="width: 1000px;">
   </a>
 </div>
-<br>
 
+*<p style="text-align: center;">5 ways of starting a new project</p>*
+
+<br>
   
 | Status			                                                         | Action						                    					|
 | -------------------------------------------------------------------- | ---------------------------------------------- |
