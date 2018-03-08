@@ -17,7 +17,7 @@ There are 5 ways of starting a new project on **TFS 2018**. You can **choose you
   </a>
 </div>
 
-*<p style="text-align: center;">5 ways of starting a new project</p>*
+<p style="text-align: center;"><i>5 ways of starting a new project</i></p>
 
 <br>
   
