@@ -28,14 +28,12 @@ There are 5 ways of starting a new project on **TFS 2018**. You can **choose you
 | 5 | You don't want to add any code repository, just need a build system. | build code from an external repository		    	|
 
 <br>
-
 **Close shot: import a repository:**
 <div style="text-align:left;">
   <a href="https://emredundar.github.io/img/tfs-2.PNG">
     <img src="https://emredundar.github.io/img/tfs-2.PNG" alt="tfs2018" style="width: 500px;">
   </a>
 </div>
-
 <br>
 
 **Close shot: initialize with a README or gitignore:**
