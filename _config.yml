@@ -42,9 +42,9 @@ title-img: "/img/icon.png"
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
 navbar-col: "ff8533"
-navbar-img: "/img/space.jpg"
+#navbar-img: "/img/space.jpg"
 # footer-col: "blue"
-# footer-img: "/img/bgimage.png"
+footer-img: "/img/space.jpg"
 # page-col: "#FF0000"
 page-col: "#efeff5"
 # page-img: "/img/bgimage.png"
