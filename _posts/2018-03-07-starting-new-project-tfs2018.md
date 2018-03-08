@@ -20,12 +20,11 @@ There are 5 ways of starting a new project on **TFS 2018**. You can **choose you
 
 <br>
   
-|#| Status			                                                         | Action						                    					|
-|1| -------------------------------------------------------------------- | ---------------------------------------------- |
-|2| You don't have any code written.                                     | initialize with a README or gitignore			    |
-|3| You have code on your local machine.                                 | initialize with a README or gitignore			    |
-|4| You have an existing git repository on your local machine.           | push an existing repository from command line	|
-|5| You have an existing repository on a different Git repository.       | import a repository							              |
-|6| You don't want to add any code repository, just need a build system. | build code from an external repository		    	|
+|   | Status			                                                         | Action						                    					|
+| - | -------------------------------------------------------------------- | ---------------------------------------------- |
+| 1 | You don't have any code written.                                     | initialize with a README or gitignore			    |
+| 2 | You have code on your local machine.                                 | initialize with a README or gitignore			    |
+| 3 | You have an existing git repository on your local machine.           | push an existing repository from command line	|
+| 4 | You have an existing repository on a different Git repository.       | import a repository							              |
+| 5 | You don't want to add any code repository, just need a build system. | build code from an external repository		    	|
 
-<br>
