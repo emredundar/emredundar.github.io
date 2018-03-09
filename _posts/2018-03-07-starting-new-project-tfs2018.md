@@ -31,7 +31,6 @@ There are 5 ways of starting a new coding project on **TFS 2018** and **VSTS**. 
 **Close shot: import a repository**
 
 You can import an existing public or private repository (from github, bitbucket, gitlab, tfs...). 
-
 It is possible to import a Git or TFVC source code repository.
 
 <div style="text-align:left;">
