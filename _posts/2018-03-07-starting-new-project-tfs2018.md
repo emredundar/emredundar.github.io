@@ -6,9 +6,9 @@ permalink: /blog/starting-new-project-tfs2018/
 tags: [tfs, vsts, version control]
 ---
 
-After creating a new project on TFS, you need to start coding on this project.
+After creating a new team project on TFS or VSTS, you need to start coding on this project.
 
-There are 5 ways of starting a new project on **TFS 2018** and **VSTS**. You can **choose your action depending on your status of project**.
+There are 5 ways of starting a new coding project on **TFS 2018** and **VSTS**. You can **choose your action depending on your status of project**.
 
 <div style="text-align:left;">
   <a href="https://emredundar.github.io/img/tfs-1.PNG">
@@ -29,7 +29,9 @@ There are 5 ways of starting a new project on **TFS 2018** and **VSTS**. You can
 
 <br>
 **Close shot: import a repository**
+
 You can import an existing public or private repository (from github, bitbucket, gitlab, tfs...). 
+
 It is possible to import a Git or TFVC source code repository.
 
 <div style="text-align:left;">
@@ -40,6 +42,7 @@ It is possible to import a Git or TFVC source code repository.
 <br>
 
 **Close shot: initialize with a README or gitignore**
+
 If you want to initialize an empty git repository, TFS and VSTS creates a ReadMe and .gitignore file for your repository.
 
 <div style="text-align:left;">
