@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: We are on the same page
+subtitle: Emre Dündar
 ---
+
 
 
 <div style="text-align:center;">
