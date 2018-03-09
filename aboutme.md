@@ -3,7 +3,6 @@ layout: page
 title: About me
 subtitle: We are on the same page
 ---
-
 <br>
 <div style="text-align:center;">
   <a href="#">
