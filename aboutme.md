@@ -4,9 +4,10 @@ title: About me
 subtitle: We are on the same page
 ---
 
+<br>
 <div style="text-align:center;">
   <a href="#">
-    <img src="https://emredundar.github.io/img/profile.jpg" alt="emre" style="width: 120px;">
+    <img src="https://emredundar.github.io/img/profile.jpg" alt="emre" style="width: 240px;">
   </a>
 </div>
 
