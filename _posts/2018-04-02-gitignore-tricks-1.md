@@ -26,7 +26,7 @@ In this post series, some good practices about creating effective gitignore file
 
 You can find a collection of .gitignore templates on this repository: https://github.com/github/gitignore
 
-### **gitignore Tricks-1: Don't ignore**
+## **gitignore Tricks-1: Don't ignore**
 
 - Ignore all txt files, but don't ignore *important.txt*.
 
