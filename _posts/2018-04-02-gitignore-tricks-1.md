@@ -28,13 +28,13 @@ You can find a collection of .gitignore templates on this repository: [https://g
 
 ## **gitignore Tricks-1: Don't ignore**
 
+
 - Ignore all txt files, but don't ignore *important.txt*.
 
 ```
    *.txt
    !important.txt
 ```
-
 <br>
 - Ignore all txt files, but don't ignore .txt files under *important* folder. Note that it ignores *important/trace.txt* file, because last pattern causes to re-ignore previous pattern.
 
