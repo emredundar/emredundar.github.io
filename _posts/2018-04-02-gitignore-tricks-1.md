@@ -29,15 +29,17 @@ You can find a collection of .gitignore templates on this repository: https://gi
 ### **gitignore Tricks-1: Don't ignore**
 
 - Ignore all txt files, but don't ignore *important.txt*.
+
 ```
-*.txt
-!important.txt
+   *.txt
+   !important.txt
 ```
 
 
 - Ignore all txt files, but don't ignore .txt files under *important* folder. Note that it ignores *important/trace.txt* file, because last pattern causes to re-ignore previous pattern.
+
 ```
-*.txt
-!important/*.txt
-trace.*
+   *.txt
+   !important/*.txt
+   trace.*
 ```
