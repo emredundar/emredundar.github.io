@@ -24,7 +24,7 @@ Ignoring the files below is a good practice to keep your source code repository 
 
 In this post series, some good practices about creating effective gitignore files will be noted into the pages of my personal notepad.
 
-You can find a collection of .gitignore templates on this repository: https://github.com/github/gitignore
+You can find a collection of .gitignore templates on this repository: [https://github.com/github/gitignore](https://github.com/github/gitignore)
 
 ## **gitignore Tricks-1: Don't ignore**
 
