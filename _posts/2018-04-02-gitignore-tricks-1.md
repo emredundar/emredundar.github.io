@@ -27,8 +27,7 @@ In this post series, some good practices about creating effective gitignore file
 You can find a collection of .gitignore templates on this repository: [https://github.com/github/gitignore](https://github.com/github/gitignore)
 
 ## **gitignore Tricks-1: Don't ignore**
-
-
+<br>
 - Ignore all txt files, but don't ignore *important.txt*.
 
 ```
@@ -42,4 +41,11 @@ You can find a collection of .gitignore templates on this repository: [https://g
    *.txt
    !important/*.txt
    trace.*
+```
+<br>
+- Ignore *tasks* folder, also ignore *tasks/important.txt* file. *!* doesn't work for this example. Due to a performance-related quirk in Git, you can not negate a file that is ignored due to a pattern matching a directory
+
+```
+tasks/
+!tasks/important.txt
 ```
