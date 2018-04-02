@@ -7,7 +7,8 @@ tags: [git, gitignore, version control]
 ---
 
 ### **Introduction**
-Git users know that .gitignore file plays an important role to manage their source code repository. 
+Git users know that gitignore files plays an important role to manage their source code repository. 
+
 **gitignore files** helps developers to avoid sliding into chaos on their *complex coding environment*.
 
 Ignoring the files below is a good practice to keep your source code repository cleaner:
@@ -26,6 +27,7 @@ In this post series, some good practices about creating effective gitignore file
 You can find a collection of .gitignore templates on this repository: https://github.com/github/gitignore
 
 ### **gitignore Tricks-1: Don't ignore**
+
 
 |   | Status			      | Action		        |
 | - | ----------------- | ----------------- |
