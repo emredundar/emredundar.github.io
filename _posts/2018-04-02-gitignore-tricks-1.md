@@ -36,6 +36,7 @@ You can find a collection of .gitignore templates on this repository: https://gi
 ```
 
 
+
 - Ignore all txt files, but don't ignore .txt files under *important* folder. Note that it ignores *important/trace.txt* file, because last pattern causes to re-ignore previous pattern.
 
 ```
