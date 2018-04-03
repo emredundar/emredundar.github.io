@@ -9,7 +9,7 @@ tags: [git, gitignore, version control]
 ### **Introduction**
 Git users know that gitignore files plays an important role to manage their source code repository.
 
-**gitignore files** helps developers to avoid sliding into chaos on their *complex coding environment*.
+**.gitignore files** helps developers to avoid sliding into chaos on their *complex coding environment*.
 
 Ignoring the files below is a good practice to keep your source code repository cleaner:
 * IDE configuration/cache files,
@@ -29,13 +29,14 @@ You can find a collection of .gitignore templates on this repository: [https://g
 ## **.gitignore Tips-1: Don't ignore**
 
 
+
 ```
    *.txt
    !important.txt
 ```
-- Ignore all txt files, but don't ignore *important.txt*.
+- This pattern ignores all txt files, but don't ignore *important.txt*.
 
-
+---
 
 ```
    *.txt
@@ -44,7 +45,7 @@ You can find a collection of .gitignore templates on this repository: [https://g
 ```
 - This pattern ignores all txt files, but don't ignore .txt files under "*important*" folder. Note that it ignores "*important/trace.txt*" file, because last pattern causes to re-ignore previous pattern.
 
-
+---
 
 ```
 tasks/
