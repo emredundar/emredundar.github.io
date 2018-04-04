@@ -2,6 +2,7 @@
 layout: post
 title: ".gitignore Tips-1: Don't ignore"
 subtitle: Version Control Systems
+meta-title: ".gitignore Tips-1: Don't ignore - Emre Dündar"
 permalink: /blog/gitignore-tips-1/
 tags: [git, gitignore, version control]
 ---
