@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Emre Dündar
+meta-title: "Emre Dündar - About me"
 ---
 
 <br>
