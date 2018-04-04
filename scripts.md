@@ -9,7 +9,7 @@ meta-description: " "
 
 <div class="list-filters">
   <a href="/" class="list-filter">All posts</a>
-  <a href="/popular" class="list-filter">Popular</a>
+  <a href="/pocket" class="list-filter">Pocket</a>
   <span class="list-filter filter-selected">Scripts</span>
 </div>
 
