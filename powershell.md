@@ -3,18 +3,18 @@ layout: page
 title: "Emre Dündar"
 subtitle: personal website
 css: "/css/index.css"
-meta-title: "Emre Dündar - Popular posts"
+meta-title: "Emre Dündar - Scripts posts"
 meta-description: " "
 ---
 
 <div class="list-filters">
   <a href="/" class="list-filter">All posts</a>
   <a href="/popular" class="list-filter">Popular</a>
-  <span class="list-filter filter-selected">Powershell</span>
+  <span class="list-filter filter-selected">Scripts</span>
 </div>
 
 <div class="posts-list">
-  {% for post in site.tags.powershell %}
+  {% for post in site.tags.script %}
   <article>
     <a class="post-preview" href="{{ post.url | prepend: site.baseurl }}">
 	    <h2 class="post-title">{{ post.title }}</h2>
