@@ -2,6 +2,7 @@
 layout: post
 title: Check file size - Powershell
 subtitle: Personal Wikipedia
+meta-title: "Check file size - Powershell - Emre Dündar"
 permalink: /blog/powershell-check-file-size/
 tags: [powershell, script]
 ---
