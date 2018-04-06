@@ -4,7 +4,7 @@ title: "Kod Kalitesinin Sürekli Denetimi: SonarQube - Sunum"
 subtitle: "Meetup Sunumu - 2017"
 meta-title: "Kod Kalitesinin Sürekli Denetimi: SonarQube - Sunum - Emre Dündar"
 permalink: /blog/kod-kalitesi-sonarqube/
-tags: [sonarqube, pocket]
+tags: [sonarqube, pocket, tr]
 ---
 
 2017 Ağustas'ta QAIst meet-up grubunda yapmış olduğum sunumu [SlideShare](https://www.slideshare.net/dundare/continuous-inspection-of-code-quality-sonarqube) üzerinden paylaştım.
