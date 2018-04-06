@@ -23,10 +23,14 @@ description: Personal Notepad
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Links:
-    - Linkedin: "https://www.linkedin.com/in/emredundar/"
-  # Author's home: "http://deanattali.com"
+  en:
+    Blog: "index-en/"
+    About Me: "aboutme-en"
+    Links:
+      - Linkedin: "https://www.linkedin.com/in/emredundar/"
+  tr:
+    Blog: ""
+    Hakkımda: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -196,6 +200,18 @@ prose:
 
 plugins:
   - jekyll-paginate
+  
+t:
+  en:
+    next: "NEXT"
+    previous: "PREVIOUS"
+    level: "Level"
+    date: "Date"
+  tr:
+    next: "SONRAKİ"
+    previous: "ÖNCEKİ"
+    level: "Seviye"
+    date: "Tarih"
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
