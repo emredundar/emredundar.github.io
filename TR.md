@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Emre Dündar"
-subtitle: açık not defteri
+subtitle: "açık not defteri"
 css: "/css/index.css"
 meta-title: "Emre Dündar - Açık Not Defteri"
 meta-description: " "
@@ -14,7 +14,7 @@ meta-description: " "
 </div>
 
 <div class="posts-list">
-  {% for post in site.tags.pocket %}
+  {% for post in site.tags.tr %}
   <article>
     <a class="post-preview" href="{{ post.url | prepend: site.baseurl }}">
 	    <h2 class="post-title">{{ post.title }}</h2>
