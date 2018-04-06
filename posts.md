@@ -27,8 +27,8 @@ meta-description: " "
       <p class="post-meta">
         Posted on {{ post.date | date: "%B %-d, %Y" }}
       </p>
-
-<div class="post-entry-container">
+    </a>
+  <div class="post-entry-container">
       {% if post.image %}
       <div class="post-image">
         <a href="{{ post.url | prepend: site.baseurl }}">
