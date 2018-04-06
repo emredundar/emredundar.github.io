@@ -1,16 +1,16 @@
 ---
 layout: page
 title: "Emre Dündar"
-subtitle: personal website
+subtitle: açık not defteri
 css: "/css/index.css"
-meta-title: "Emre Dündar - Pocket posts"
+meta-title: "Emre Dündar - Açık Not Defteri"
 meta-description: " "
 ---
 
 <div class="list-filters">
   <a href="/" class="list-filter">All posts</a>
-  <span class="list-filter filter-selected">Pocket</span>
-  <a href="/scripts" class="list-filter">Scripts</a>
+  <span class="list-filter filter-selected">TR</span>
+  <a href="/en" class="list-filter">EN</a>
 </div>
 
 <div class="posts-list">
