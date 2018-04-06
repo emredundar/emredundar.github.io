@@ -14,7 +14,7 @@ meta-description: " "
 </div>
 
 <div class="posts-list">
-  {% for post in site.tags.script %}
+  {% for post in site.tags.en %}
   <article>
     <a class="post-preview" href="{{ post.url | prepend: site.baseurl }}">
 	    <h2 class="post-title">{{ post.title }}</h2>
