@@ -4,7 +4,7 @@ title: 5 Ways of Starting A New Project on TFS 2018 and VSTS
 subtitle: Version Control Systems
 meta-title: "5 Ways of Starting A New Project on TFS 2018 and VSTS - Emre Dündar"
 permalink: /blog/starting-new-project-tfs2018/
-tags: [tfs, vsts, version control]
+tags: [tfs, vsts, version control, en]
 ---
 
 After creating a new team project on TFS or VSTS, you need to start coding on this project.
