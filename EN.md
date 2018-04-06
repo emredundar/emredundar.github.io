@@ -3,14 +3,14 @@ layout: page
 title: "Emre Dündar"
 subtitle: personal website
 css: "/css/index.css"
-meta-title: "Emre Dündar - Scripts posts"
+meta-title: "Emre Dündar - Posts in English"
 meta-description: " "
 ---
 
 <div class="list-filters">
   <a href="/" class="list-filter">All posts</a>
-  <a href="/pocket" class="list-filter">Pocket</a>
-  <span class="list-filter filter-selected">Scripts</span>
+  <a href="/tr" class="list-filter">TR</a>
+  <span class="list-filter filter-selected">EN</span>
 </div>
 
 <div class="posts-list">
