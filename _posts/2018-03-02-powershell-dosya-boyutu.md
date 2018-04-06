@@ -4,7 +4,7 @@ title: Dosya boyutu kontrolü - Powershell
 subtitle: açık not defteri
 meta-title: "Dosya boyutu kontrolü - Powershell - Emre Dündar"
 permalink: /blog/powershell-dosya-boyutu/
-tags: [powershell, script]
+tags: [powershell, script, tr]
 ---
 
 Kişisel not deferime not ettiğim ufak script'lerden ilkini bu platforma taşıyorum.
