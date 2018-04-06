@@ -9,8 +9,8 @@ meta-description: " "
 
 <div class="list-filters">
   <a href="/" class="list-filter">TR</a>
-  <a href="/yazilar" class="list-filter">TR</a>
   <span class="list-filter filter-selected">EN</span>
+  <!-- <a href="/yazilar" class="list-filter">TR</a> -->
 </div>
 
 <div class="posts-list">
