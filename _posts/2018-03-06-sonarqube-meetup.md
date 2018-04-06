@@ -4,7 +4,7 @@ title: "Continuous Inspection of Code Quality: SonarQube - Presentation"
 subtitle: "Meetup Presentation - 2017"
 meta-title: "Continuous Inspection of Code Quality: SonarQube - Presentation - Emre Dündar"
 permalink: /blog/continuous-inspection-sonarqube/
-tags: [sonarqube, pocket]
+tags: [sonarqube, pocket, en]
 ---
 
 I have shared my Meetup presentation on [SlideShare](https://www.slideshare.net/dundare/continuous-inspection-of-code-quality-sonarqube)
