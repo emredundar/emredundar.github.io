@@ -4,7 +4,7 @@ title: Check file size - Powershell
 subtitle: Personal Wikipedia
 meta-title: "Check file size - Powershell - Emre Dündar"
 permalink: /blog/powershell-check-file-size/
-tags: [powershell, script]
+tags: [powershell, script, en]
 ---
 
 A script I run generates a file as an output, but I could not know if the process is successful or not. That's why I need this simple "file size check" script.
